@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ostrio_files/node_modules/.request-libcurl-garbage-12qw0ub.skhul" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.meteor/local/build/programs/server/npm/node_modules/meteor/ostrio_files/node_modules/request-libcurl" vcs="Git" />
+  </component>
+</project>
