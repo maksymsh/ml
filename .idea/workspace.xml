@@ -20,11 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b67302ee-4319-49f7-9272-fe40c8d98a3c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.meteor/packages" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/packages" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.meteor/platforms" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/platforms" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.meteor/versions" beforeDir="false" afterPath="$PROJECT_DIR$/.meteor/versions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imports/auth0-variables.js" beforeDir="false" afterPath="$PROJECT_DIR$/imports/auth0-variables.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="HbShouldOpenHtmlAsHb" value="enabled" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -105,7 +103,7 @@
       <workItem from="1593967525093" duration="649000" />
       <workItem from="1593977648267" duration="1736000" />
       <workItem from="1594019698903" duration="2127000" />
-      <workItem from="1594022374678" duration="4295000" />
+      <workItem from="1594022374678" duration="8355000" />
     </task>
     <servers />
   </component>
@@ -129,6 +127,10 @@
       <screen x="0" y="0" width="1366" height="744" />
     </state>
     <state x="547" y="267" width="262" height="202" key="#ESLint/0.0.1366.744@0.0.1366.744" timestamp="1594039276956" />
+    <state x="566" y="245" width="615" height="395" key="#Notifications" timestamp="1594047042642">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="566" y="245" width="615" height="395" key="#Notifications/0.0.1366.744@0.0.1366.744" timestamp="1594047042642" />
     <state x="466" y="130" width="424" height="477" key="FileChooserDialogImpl" timestamp="1594039168819">
       <screen x="0" y="0" width="1366" height="744" />
     </state>
@@ -137,6 +139,10 @@
       <screen x="0" y="0" width="1366" height="744" />
     </state>
     <state x="187" y="7" key="SettingsEditor/0.0.1366.744@0.0.1366.744" timestamp="1594039315651" />
+    <state x="388" y="0" width="589" height="744" key="find.popup" timestamp="1594046180494">
+      <screen x="0" y="0" width="1366" height="744" />
+    </state>
+    <state x="388" y="0" width="589" height="744" key="find.popup/0.0.1366.744@0.0.1366.744" timestamp="1594046180494" />
     <state x="403" y="183" width="550" height="370" key="jetbrains.nodejs.interpreters-dialog" timestamp="1594022204628">
       <screen x="0" y="0" width="1366" height="744" />
     </state>
